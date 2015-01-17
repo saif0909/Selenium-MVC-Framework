@@ -1,9 +1,7 @@
 package com.controller;
 
 import static org.junit.Assert.assertEquals;
-
 import org.openqa.selenium.WebDriver;
-
 import com.model.GmailLoginModel;
 
 /**
