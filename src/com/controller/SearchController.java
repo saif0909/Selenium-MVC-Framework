@@ -1,7 +1,6 @@
 package com.controller;
 
 import org.openqa.selenium.WebDriver;
-
 import com.model.SearchModel;
 
 /**
